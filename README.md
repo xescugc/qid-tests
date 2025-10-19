@@ -1,3 +1,3 @@
 # QID tests
 
-Used to test some integrations for [QID](https://github.com/xescugc/qid)
+Used for the Tutorial of [QID](https://github.com/xescugc/qid)
